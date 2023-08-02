@@ -1,0 +1,39 @@
+
+/* Class = "UIButton"; configuration.title = "Start"; ObjectID = "6L9-h8-mIf"; */
+"6L9-h8-mIf.configuration.title" = "Start";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "6L9-h8-mIf"; */
+"6L9-h8-mIf.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Extreme"; ObjectID = "6NO-F0-Xtb"; */
+"6NO-F0-Xtb.configuration.title" = "Extreme";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "6NO-F0-Xtb"; */
+"6NO-F0-Xtb.normalTitle" = "Button";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "Lv6-ge-7ze"; */
+"Lv6-ge-7ze.title" = "Back";
+
+/* Class = "UILabel"; text = "         Hello \"Username\" choose a Plan"; ObjectID = "Ndw-1P-Xxo"; */
+"Ndw-1P-Xxo.text" = "         Hello \"Username\" choose a Plan";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "dau-l1-xzR"; */
+"dau-l1-xzR.title" = "Title";
+
+/* Class = "UINavigationItem"; prompt = "Welcom"; ObjectID = "ful-XK-PEs"; */
+"ful-XK-PEs.prompt" = "Welcom";
+
+/* Class = "UIButton"; configuration.title = "Heavy"; ObjectID = "jE9-Nt-kUs"; */
+"jE9-Nt-kUs.configuration.title" = "Heavy";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "jE9-Nt-kUs"; */
+"jE9-Nt-kUs.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "ltc-Q1-Xxv"; */
+"ltc-Q1-Xxv.text" = "Username";
+
+/* Class = "UIButton"; configuration.title = "Light"; ObjectID = "n23-wV-eNm"; */
+"n23-wV-eNm.configuration.title" = "Light";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "n23-wV-eNm"; */
+"n23-wV-eNm.normalTitle" = "Button";
